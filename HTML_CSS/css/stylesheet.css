@@ -1,0 +1,57 @@
+.container{
+    width: 80%;
+    margin: auto;
+    
+}
+.box-1
+{
+  background-color:#333333;  
+    color: #ffffff;
+    padding: 10px;
+    border-left: 10px red solid;
+    
+}
+.button
+{
+     color: #ffffff;
+}
+.branches
+{
+    border:5px solid #ccc;
+    padding: 10px;
+    border-radius:15px;
+    margin:15px;
+   
+}
+.block
+{
+   float: left;
+    width: 20.3%;
+    border: 4px solid #ccc;
+    padding:10px;
+    box-sizing: border-box;
+}
+.clr
+{
+    clear: both;
+}
+.p-box
+{
+    width:400px;
+    height: 500px;
+    border: 4px solid #000;
+    margin-top: 30px;
+    position: relative;
+}
+.p-box h1
+{
+    position: absolute;
+    top: 420px;
+    left: 300;
+}
+.p-box h2
+{
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+}
